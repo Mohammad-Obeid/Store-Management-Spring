@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-02-01T01:34:36.188+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/product"
+}
